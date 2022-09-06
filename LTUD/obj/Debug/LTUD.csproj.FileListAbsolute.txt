@@ -1,0 +1,13 @@
+D:\LTUD\LTUD\LTUD\bin\Debug\LTUD.exe.config
+D:\LTUD\LTUD\LTUD\bin\Debug\LTUD.exe
+D:\LTUD\LTUD\LTUD\bin\Debug\LTUD.pdb
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.csproj.AssemblyReference.cache
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.csproj.SuggestedBindingRedirects.cache
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.GiaiPT.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.Properties.Resources.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.csproj.GenerateResource.cache
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.csproj.CoreCompileInputs.cache
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.exe
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.pdb
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.tachTen.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.calculator.resources
