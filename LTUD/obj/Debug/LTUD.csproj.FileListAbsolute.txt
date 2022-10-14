@@ -11,3 +11,7 @@ D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.exe
 D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.pdb
 D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.tachTen.resources
 D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.calculator.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.clock.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.timer.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.Frmmain.resources
+D:\LTUD\LTUD\LTUD\obj\Debug\LTUD.frmDMHH.resources

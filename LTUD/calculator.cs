@@ -133,7 +133,6 @@ namespace LTUD
         private void button3_Click(object sender, EventArgs e)
         {
             kq.Text = (- Double.Parse(kq.Text)).ToString(); 
-            
         }
 
         private void percent(object sender, EventArgs e)

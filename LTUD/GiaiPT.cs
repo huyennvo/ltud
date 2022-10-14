@@ -39,7 +39,7 @@ namespace LTUD
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btnOK_Click(object sender, EventArgs e)

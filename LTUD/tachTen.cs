@@ -34,7 +34,7 @@ namespace LTUD
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
         }
 
         private void btnkq_Click(object sender, EventArgs e)

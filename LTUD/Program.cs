@@ -16,7 +16,7 @@ namespace LTUD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new calculator());
+            Application.Run(new Frmmain());
         }
     }
 }
